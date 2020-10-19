@@ -7,7 +7,7 @@ Icy tower is a single player platform game which the user controls the character
 
 The gamespace is a vertical area which continuously moving up and contains platforms. The character can jump on those platforms to move up.
 
-The player will have 10 points fir every land on platform.
+The player will have 10 points for each landing on a platform.
 
 ![4j1c3q](https://user-images.githubusercontent.com/63601829/96461648-4e373000-122d-11eb-8733-f1ae030741c0.gif)
 
