@@ -10,3 +10,6 @@ The gamespace is a vertical area which continuously moving up and contains platf
 The player will have 10 points fir every land on platform.
 
 ![4j1c3q](https://user-images.githubusercontent.com/63601829/96461648-4e373000-122d-11eb-8733-f1ae030741c0.gif)
+
+![4j1d3f](https://user-images.githubusercontent.com/63601829/96462456-41670c00-122e-11eb-8d8c-a81e917b4091.gif)
+
